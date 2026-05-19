@@ -1,0 +1,5 @@
+aiogram==3.21.0
+openai==1.99.2
+aiosqlite==0.21.0
+aiohttp==3.12.15
+python-dotenv==1.1.1
