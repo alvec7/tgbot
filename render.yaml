@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: telegram-openai-bot
+    env: docker
+    plan: free
+    autoDeploy: true
